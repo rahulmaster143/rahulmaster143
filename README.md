@@ -16,7 +16,7 @@ i![My card name](https://cardivo.vercel.app/api?name=RAHUL-MASTER%20&description
   </a>
 </div>
 <p align="center">
-<a href="https://youtube.com/@rahul_ji_bot_deployer"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@rahul_ji_bot_deployer" /><br>
+<a href=https://youtube.com/@rahulhiran4733"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@rahulhiran4733" /><br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

@@ -8,15 +8,15 @@ i![My card name](https://cardivo.vercel.app/api?name=RAHUL-MASTER%20&description
 
 <div align="center"> 
   
-  <a href="https://wa.me/917020728211?text=__𝑯𝑬𝒀★𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_𝐇𝐄𝐋𝐏_𝐌𝐄_𝐏𝐋𝐄𝐀𝐒𝐄_𝐒𝐈𝐑🙏🏻" target="_blank">
+  <a href="https://wa.me/919356730236?text=__𝑯𝑬𝒀★𝚪AHUL-𝚳𝚫𝐒𝚻𝚵𝚪_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_𝐇𝐄𝐋𝐏_𝐌𝐄_𝐏𝐋𝐄𝐀𝐒𝐄_𝐒𝐈𝐑🙏🏻" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/hrutik_official_12" target="_blank">
+  <a href="https://instagram.com/rahul_police_officer" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 <p align="center">
-<a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@hrutik_official" /><br>
+<a href="https://youtube.com/@rahul_ji_bot_deployer"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@rahul_ji_bot_deployer" /><br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
